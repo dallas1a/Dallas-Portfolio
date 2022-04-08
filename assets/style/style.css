@@ -46,15 +46,12 @@ header nav ul li a {
   color: black;
   text-decoration: none;
 }
-
-
-
 .hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("/assets/images/2022-04-08\ \(1\).png");
-    background-size: cover;
-    background-position: center;
+  height: 300px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image:url(/assets/images/istockphoto-471620647-170667a.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
