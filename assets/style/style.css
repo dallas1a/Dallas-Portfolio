@@ -8,6 +8,7 @@
 body {
   background-color: blue;
 }
+
 /*Sets style rules the heading*/
 header {
   padding: 20px;
@@ -42,15 +43,18 @@ header nav ul li {
 }
 /*Style rules for each of the list items*/
 header nav ul li a {
-  color: lgih;
+  color: black;
   text-decoration: none;
 }
+
+
+
 .hero {
-  background-image: url("/assets/images/pawel-czerwinski-prMn9KINLtI-unsplash.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content:center;
-  flex-wrap: wrap;
-  align-items: flex-start
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("/assets/images/istockphoto-471620647-170667a.jpg");
+    background-size: cover;
+    background-position: center;
 }
+
