@@ -50,8 +50,17 @@ header nav ul li a {
   height: 300px;
   width: 100%;
   margin-bottom: 25px;
-  background-image:url(/assets/images/istockphoto-471620647-170667a.jpg);
+  background-image:url("../images/istockphoto-471620647-170667a.jpg");
   background-size: cover;
   background-position: center;
 }
+
+.hero h2{
+  padding: 250px 70px;
+  float: right;
+  font-size: 48px;
+  color: black;
+}
+
+
 
