@@ -62,5 +62,61 @@ header nav ul li a {
   color: black;
 }
 
+.About-Me{
+ height: 300px;
+ width: 100%;
+ margin: 0 auto 200px auto;
+  background: lightblue;
+  
+  flex: 1
+}
+.About-Me h2{
+  border-right: 2px;
+}
+.About-Me img{
+  height: 300px;
+  width: 300px;
 
+margin: 0 auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.Work {
+  background-color: lightblue;
+  padding: 32px 0;
+  margin-top: 2rem;
+}
 
+.work-pic {
+  width: 65%;
+  height: 60%;
+}
+
+.work-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Contact-Me{
+  height: 300px;
+  width: 100%;
+  margin: 0 auto 200px auto;
+   background: lightblue;
+   
+   flex: 
+}
+.Resume{
+  height: 300px;
+ width: 100%;
+ margin: 0 auto 200px auto;
+  background: lightblue;
+  
+  flex: 
+}
+footer {
+  background-color: var(--bg-color);
+  padding: 1.25rem;
+  text-align: center;
+  margin: 2rem 0 0;
+}
